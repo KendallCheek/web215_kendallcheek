@@ -14,6 +14,6 @@ Sign in
   <li>Marc Seelenger - mseelengerjr</li>
   <li>Emmanuel Sosa - sosaeman</li>
   <li>Kewal Thapa - Kewalthappa</li>
-  <li>Elena - ElenaZelenina</li>
+  <li>Elena - ElenaZelenina was here 6:50 pm 1/20/20</li>
   <li>D.I. von Briesen - divonbriesen</li>
  </ul>
