@@ -10,7 +10,7 @@ Sign in
   <li>Robert Propheter - robert-m-proph</li>
   <li>Thinh Pham</li>
   <li>Alexander Schmid - LTSchmiddy</li>
-  <li>Terrell Scott </li>
+  <li>Terrell Scott - tdscott1978</li>
   <li>Marc Seelenger - mseelengerjr</li>
   <li>Emmanuel Sosa - sosaeman</li>
   <li>Kewal Thapa - Kewalthappa</li>
