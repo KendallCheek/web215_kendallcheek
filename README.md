@@ -15,5 +15,5 @@ Sign in
   <li>Emmanuel Sosa - sosaeman</li>
   <li>Kewal Thapa - Kewalthappa</li>
   <li>Elena - ElenaZelenina was here 6:50 pm 1/20/20</li>
-  <li>D.I. von Briesen - divonbriesen: was here 8:55am on 1/21/2020</li>
+  <li>D.I. von Briesen - divonbriesen: was here 8:55am on 1/21/2020: WEB215 Repo https://github.com/divonbriesen/CP_WEB215_SP2020 </li>
  </ul>
