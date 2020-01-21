@@ -11,7 +11,7 @@ Sign in
   <li>Thinh Pham</li>
   <li>Alexander Schmid - LTSchmiddy</li>
   <li>Terrell Scott - tdscott1978</li>
-  <li>Marc Seelenger - mseelengerjr</li>
+  <li>Marc Seelenger - mseelengerjr was here 9:57pm 1/20/20</li>
   <li>Emmanuel Sosa - sosaeman</li>
   <li>Kewal Thapa - Kewalthappa</li>
   <li>Elena - ElenaZelenina was here 6:50 pm 1/20/20</li>
