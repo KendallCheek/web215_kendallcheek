@@ -9,7 +9,7 @@ Sign in
 - Robert Propheter - robert-m-proph
 - Thinh Pham
 - Alexander Schmid - LTSchmiddy
-- Terrell Scott - tdscott1978
+- Terrell Scott - tdscott1978 - Terrell Scott was here 1/31/2020 at 10:20 am
 - Marc Seelenger - mseelengerjr was here 9:57pm 1/20/20
 - Emmanuel Sosa - Emmanuelsosa was here 6:10pm 1/21/2020
 - Kewal Thapa - Kewalthappa
