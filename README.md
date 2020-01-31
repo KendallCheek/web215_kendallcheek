@@ -3,7 +3,7 @@ Adv Markup and Scripting
 
 Sign in 
 
-- Safron Haile - SafronH
+- Safron Haile - SafronH - Safron Haile was here at 9:00p.m on 1/30/2020
 - Sabrina Nur - snur0000
 - Mariia - MariiaPa - Mariia Pavlenko was here at 11:00am on 1/27/2020
 - Robert Propheter - robert-m-proph
